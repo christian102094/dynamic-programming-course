@@ -1,0 +1,27 @@
+{
+  "name": "dynamic-programming-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christian102094/dynamic-programming-course.git"
+  },
+  "author": "Christian Tapia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christian102094/dynamic-programming-course/issues"
+  },
+  "homepage": "https://github.com/christian102094/dynamic-programming-course#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
